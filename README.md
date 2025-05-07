@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # node.js-system-Info-logger
-=======
 # Node.js Core Modules Assignment
 
 ## Author
@@ -8,7 +6,7 @@
 [Attah Ifeanyichukwu Sixtus]
 
 
-## System Information Logger
+## System Informationgit  Logger
 
 This project demonstrates the use of core Node.js modules to perform basic system operations and file handling.
 
@@ -59,4 +57,3 @@ This project demonstrates understanding of:
 - Implements asynchronous methods for file operations
 - Includes proper error handling
 - Provides clean code with descriptive comments
->>>>>>> eb3015c (1.Added system information logger using Node.js core modules. 2.Retrieved and displayed system platform and architecture. 3. Constructed file paths using the path module. 4  Created and wrote system info to a text file. 5.- Reads and displayed file contents using asynchronous methods. 6.All operations uses built-in Node.js modules (os, path, fs) with proper error handling.)
